@@ -56,6 +56,6 @@ Predictive modeling on tabular and time-series datasets (Fare Prediction, Crime 
 
 Contact
 
-LinkedIn: Your LinkedIn
+LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/harshit-sharma-10a046318/)
 
-Email: your.email@example.com
+Email: harsh078976@gmail.com

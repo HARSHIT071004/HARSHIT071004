@@ -17,42 +17,12 @@ Databases: MongoDB, SQL
 
 Project Journey
 Web & MERN Stack
-
-SceenScape
- – Movie web app using TMDB API built with MERN stack.
-
-Harshit Portfolio
- – Responsive portfolio showcasing projects, skills, and experience.
-
-EasyStay
- – Full-stack accommodation booking app with React, Node.js, and SQL backend.
-
-EveMan
- – Event management platform with MERN stack, user authentication, and custom APIs.
-
-Data Analytics & Visualization
-
-Online Retail Customer Segmentation
- – Customer segmentation using KMeans and Hierarchical Clustering.
-
-Power BI Dashboards
- – Interactive dashboards for diverse domains with dynamic metrics and visual storytelling.
-
-Excel Dashboard Projects
- – Data cleaning, exploratory analysis, and interactive Excel dashboards.
-
-Pandas Data Visualization
- – End-to-end data analysis with Python, visualization, and insights generation.
-
+Data Analysis
 Machine Learning & AI
+Deep Learning
+ML OPS
+
 Waitt>>>>>>>>  ^_^
-Machine Learning  / Deep Learning
-
-Image-based data extraction & processing (OCR pipelines for MEMATDAR)
-
-Text classification and NLP modeling (Movie Genre Predictor)
-
-Predictive modeling on tabular and time-series datasets (Fare Prediction, Crime Data Classification)
 
 Contact
 

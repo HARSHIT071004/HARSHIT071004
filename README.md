@@ -1,140 +1,471 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=0ABAB5&center=true&vCenter=true&width=500&lines=Harshit+Sharma;Data+Scientist+%26+AI+Practitioner;Full-Stack+Developer;ML+%26+Deep+Learning+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Harshit+Sharma;AI+Developer;LLM+Engineer;Computer+Vision+Engineer;AI+Agent+Developer" alt="Typing Header" />
 </div>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/harshit-sharma-10a046318/">
+<p align="center">
+  <a href="https://harshit-ai-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/harshit-sharma">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/HARSHIT071004">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:harsh078976@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="#">
-    <img src="https://komarev.com/ghpvc/?username=Harshit071004&style=for-the-badge&color=0ABAB5" alt="Profile Views" />
+  <a href="https://harshit-ai-portfolio.vercel.app/resume">
+    <img src="https://img.shields.io/badge/Resume-FF6F00?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
   </a>
-</div>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HARSHIT071004&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/HARSHIT071004?style=for-the-badge&logo=github&color=38BDF8" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/HARSHIT071004?style=for-the-badge&logo=github&color=38BDF8" alt="Stars" />
+</p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-Data Scientist & AI Practitioner with a strong foundation in **full-stack development** and a passion for **data-driven solutions**. I build impactful projects combining web development, machine learning, and AI — from responsive MERN applications to predictive models and NLP pipelines.
+```yaml
+name: Harshit Sharma
+role: AI Developer | LLM Engineer | Computer Vision Engineer | AI Agent Developer
+location: Greater Noida, India
+education: B.Tech in AI/ML (Final Year)
+focus_areas:
+  - Large Language Models (LLMs) & RAG Systems
+  - Multi-Agent AI Applications
+  - Computer Vision & Open-Vocabulary Detection
+  - MLOps & AI Infrastructure
+cross_functional:
+  - Machine Learning & Deep Learning
+  - Frontend & Backend Development
+  - API Design & Deployment
+  - DevOps & Containerization
+achievements:
+  - Microsoft Hackathon Finalist
+  - Production-grade AI Surveillance Platform
+  - Hybrid Retrieval RAG Pipelines
+philosophy: "Building AI that ships."
+```
+
+---
+
+<p align="center">
+  <i>AI Developer with deep expertise in LLMs, RAG, Computer Vision, and AI Agents — complemented by strong foundations in Machine Learning, Deep Learning, and cross-functional full-stack development.</i>
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
+### 🤖 AI / LLM Engineering
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/FAISS-005AFF?style=for-the-badge&logo=facebook&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vector_Databases-593D88?style=for-the-badge&logo=qdrant&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-7B2FF7?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Embeddings-00A67E?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Semantic_Search-412991?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cross_Encoder_Rerankers-005AFF?style=for-the-badge&logo=huggingface&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_API-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Multi_Agent_Systems-1C3C3C?style=for-the-badge&logo=crewai&logoColor=white" />
+</p>
+
+### 👁️ Computer Vision
+
+<p align="center">
+  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=ultralytics&logoColor=black" />
+  <img src="https://img.shields.io/badge/YOLO_World-00BFFF?style=for-the-badge&logo=ultralytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grounding_DINO-FF6F00?style=for-the-badge&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Object_Detection-00BFFF?style=for-the-badge&logo=ultralytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anomaly_Detection-FF0000?style=for-the-badge&logo=datadog&logoColor=white" />
+  <img src="https://img.shields.io/badge/Video_Analytics-00A67E?style=for-the-badge&logo=cctv&logoColor=white" />
+</p>
+
+### 🧠 Machine Learning & Deep Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-150458?style=for-the-badge&logo=xgboost&logoColor=white" />
+  <img src="https://img.shields.io/badge/Feature_Engineering-005AFF?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hyperparameter_Tuning-FF6F00?style=for-the-badge&logo=optuna&logoColor=white" />
+</p>
+
+### 🌐 Backend & DevOps
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-005AFF?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI/CD-4285F4?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/n8n-1C3C3C?style=for-the-badge&logo=n8n&logoColor=white" />
+</p>
+
+### 📊 Data Analytics & Visualization
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+### 💻 Languages
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
+
+---
+
+## 💼 Experience
+
 <table align="center">
   <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" />
-      <br/>Python
+    <td align="center" width="300">
+      <img src="https://img.shields.io/badge/Codeacious_Technologies-38BDF8?style=for-the-badge&logo=codeium&logoColor=black" />
+      <br/>
+      <strong>AI Developer Intern</strong>
+      <br/>
+      <sub>Dec 2025 – May 2026</sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" />
-      <br/>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" />
-      <br/>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="48" height="48" />
-      <br/>Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="SQL" width="48" height="48" />
-      <br/>SQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="MongoDB" width="48" height="48" />
-      <br/>MongoDB
+    <td>
+      <table>
+        <tr>
+          <td>🔹</td>
+          <td>Built production-grade <strong>AI Surveillance Platform</strong> with open-vocabulary anomaly detection</td>
+        </tr>
+        <tr>
+          <td>🔹</td>
+          <td>Developed <strong>Hybrid RAG Systems</strong> with hybrid retrieval, cross-encoder reranking & semantic chunking</td>
+        </tr>
+        <tr>
+          <td>🔹</td>
+          <td>Built <strong>Multi-Agent Desktop AI Application</strong> using Electron, TypeScript & Claude API</td>
+        </tr>
+        <tr>
+          <td>🔹</td>
+          <td>Deployed microservices with <strong>Docker + Kubernetes</strong> for scalable AI infrastructure</td>
+        </tr>
+        <tr>
+          <td>🔹</td>
+          <td>Automated AI workflows using <strong>n8n</strong> for end-to-end pipeline orchestration</td>
+        </tr>
+        <tr>
+          <td>🔹</td>
+          <td>Built <strong>React + NestJS</strong> monitoring dashboard for real-time system insights</td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
 
-### Programming & Development
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+---
 
-### Data Science & Machine Learning
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
+## 🚀 Featured Projects
 
-### Deep Learning & AI
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-FF6F00?style=flat-square&logo=spacy&logoColor=white)
+### 🔍 AI Surveillance System
+<table>
+  <tr>
+    <td width="60%">
+      <strong>Tech Stack:</strong> YOLOv8, YOLO-World, Grounding DINO, React, NestJS, MongoDB<br/><br/>
+      ✅ Open-vocabulary anomaly detection<br/>
+      ✅ Real-time surveillance with video analytics<br/>
+      ✅ Natural language threat definitions<br/>
+      ✅ Automated alerting & notification system<br/>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
+      <br/><br/>
+      <a href="https://github.com/HARSHIT071004"><img src="https://img.shields.io/badge/View_Project-38BDF8?style=for-the-badge&logo=github&logoColor=black" /></a>
+    </td>
+  </tr>
+</table>
 
-### Analytics & Visualization
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+### 🧠 Advanced RAG Pipeline
+<table>
+  <tr>
+    <td width="60%">
+      <strong>Tech Stack:</strong> LangChain, FAISS, Transformers, Hugging Face<br/><br/>
+      ✅ Hybrid retrieval (semantic + keyword)<br/>
+      ✅ Cross-encoder reranking for precision<br/>
+      ✅ Semantic chunking strategies<br/>
+      ✅ Low hallucination response generation<br/>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
+      <br/><br/>
+      <a href="https://github.com/HARSHIT071004"><img src="https://img.shields.io/badge/View_Project-38BDF8?style=for-the-badge&logo=github&logoColor=black" /></a>
+    </td>
+  </tr>
+</table>
 
-### Databases & Tools
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+### 🤖 Multi-Agent AI Desktop App
+<table>
+  <tr>
+    <td width="60%">
+      <strong>Tech Stack:</strong> Electron, TypeScript, Claude API, LangChain<br/><br/>
+      ✅ Multiple specialized AI agents<br/>
+      ✅ GitHub, Slack & Notion integrations<br/>
+      ✅ Desktop-native experience<br/>
+      ✅ Agent orchestration & task delegation<br/>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
+      <br/><br/>
+      <a href="https://github.com/HARSHIT071004"><img src="https://img.shields.io/badge/View_Project-38BDF8?style=for-the-badge&logo=github&logoColor=black" /></a>
+    </td>
+  </tr>
+</table>
+
+### 📊 Crime Data Classification System
+<table>
+  <tr>
+    <td width="60%">
+      <strong>Tech Stack:</strong> XGBoost, scikit-learn, SMOTE, Pandas<br/><br/>
+      ✅ Ensemble learning with multiple classifiers<br/>
+      ✅ Class imbalance handling via SMOTE<br/>
+      ✅ Feature engineering & selection<br/>
+      ✅ 95%+ accuracy on benchmark data<br/>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
+      <br/><br/>
+      <a href="https://github.com/HARSHIT071004"><img src="https://img.shields.io/badge/View_Project-38BDF8?style=for-the-badge&logo=github&logoColor=black" /></a>
+    </td>
+  </tr>
+</table>
+
+### 📈 Portfolio Optimization using Deep Learning
+<table>
+  <tr>
+    <td width="60%">
+      <strong>Tech Stack:</strong> TensorFlow, Keras, NumPy, Pandas<br/><br/>
+      ✅ Financial forecasting with deep learning<br/>
+      ✅ Optimal asset allocation strategies<br/>
+      ✅ Risk-adjusted return optimization<br/>
+      ✅ LSTM-based time series prediction<br/>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
+      <br/><br/>
+      <a href="https://github.com/HARSHIT071004"><img src="https://img.shields.io/badge/View_Project-38BDF8?style=for-the-badge&logo=github&logoColor=black" /></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harshit071004&show_icons=true&theme=dark&bg_color=0d1117&border_color=30363d&icon_color=0ABAB5&title_color=0ABAB5&text_color=c9d1d9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit071004&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d&title_color=0ABAB5&text_color=c9d1d9" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=HARSHIT071004&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=30363d&icon_color=38BDF8&title_color=38BDF8&text_color=c9d1d9&count_private=true&include_all_commits=true" width="450" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARSHIT071004&layout=compact&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=38BDF8&text_color=c9d1d9&langs_count=8" width="350" />
+      </td>
+    </tr>
+  </table>
+  
+  <br/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HARSHIT071004&theme=github-dark-blue&background=0d1117&border=30363d&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=38BDF8&sideLabels=c9d1d9&dates=586069" width="800" />
+  
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshit071004&theme=dark&background=0d1117&border=30363d&stroke=0ABAB5&ring=0ABAB5&fire=0ABAB5&currStreakNum=c9d1d9&sideNums=c9d1d9" />
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HARSHIT071004&theme=react-dark&bg_color=0d1117&hide_border=true&color=38BDF8&line=38BDF8&point=38BDF8&area=true&area_color=38BDF8" width="100%" />
+  
+  <br/><br/>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
 </div>
 
 ---
 
-## 💼 What I Do
+## ⏱️ Coding Activity
 
-### 🌐 Web & MERN Stack
-Full-stack applications with CRUD operations, authentication, and deployment — responsive and secure web apps using modern JavaScript frameworks.
-
-### 📈 Data Analysis
-Exploratory Data Analysis (EDA), data cleaning, feature engineering, and visualizations using Python (Matplotlib, Seaborn) and Power BI.
-
-### 🤖 Machine Learning & AI
-Supervised & unsupervised learning models, predictive modeling, classification, and regression projects with scikit-learn.
-
-### 🧠 Deep Learning
-Neural network models for image and text data, NLP pipelines, OCR, image processing, and AI-driven predictive modeling.
-
-### ⚙️ MLOps & Deployment
-Model deployment via APIs and web applications, automated pipelines for real-time data processing.
+<div align="center">
+  <a href="https://wakatime.com">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=HARSHIT071004&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=38BDF8&text_color=c9d1d9&layout=compact" width="600" />
+  </a>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/💻_500%2B_hours_coding-38BDF8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📅_Coding_since_2024-38BDF8?style=for-the-badge" />
+</div>
 
 ---
 
-## 📬 Let's Connect
+## 🏆 Achievements & Certifications
+
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/Microsoft_Hackathon-Finalist-FF6F00?style=for-the-badge&logo=microsoft&logoColor=white" />
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/SQL-HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/Python_%26_Pandas-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/Power_BI-Certified-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Advanced_Excel-Certified-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/ML_A%2FZ-Certified-FF6F00?style=for-the-badge&logo=udemy&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Statistics_DS-Certified-3776AB?style=for-the-badge&logo=datacamp&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/More_Certs-1C3C3C?style=for-the-badge&logo=accenture&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🔬 Research & Interests
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/harshit-sharma-10a046318/">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/LLM_Research-38BDF8?style=for-the-badge&logo=googlegemini&logoColor=white" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/AI_Agents-38BDF8?style=for-the-badge&logo=crewai&logoColor=white" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Computer_Vision-38BDF8?style=for-the-badge&logo=opencv&logoColor=white" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Open_Vocab_Detection-38BDF8?style=for-the-badge&logo=meta&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Semantic_Search-38BDF8?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/MLOps-38BDF8?style=for-the-badge&logo=mlflow&logoColor=white" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/AI_Safety-38BDF8?style=for-the-badge&logo=anthropic&logoColor=white" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Agentic_AI-38BDF8?style=for-the-badge&logo=langchain&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <img src="https://img.shields.io/badge/RAG_Systems-38BDF8?style=for-the-badge&logo=databricks&logoColor=white" />
+      </td>
+      <td align="center" colspan="2">
+        <img src="https://img.shields.io/badge/AI_Infrastructure-38BDF8?style=for-the-badge&logo=kubernetes&logoColor=white" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🎯 Fun Facts
+
+<table align="center">
+  <tr>
+    <td>⚡</td>
+    <td>I optimize prompts the way most people optimize code — ruthless iteration.</td>
+  </tr>
+  <tr>
+    <td>🔧</td>
+    <td>My dev environment runs on Docker containers. Everything is ephemeral.</td>
+  </tr>
+  <tr>
+    <td>🧠</td>
+    <td>I believe the best AI system is one that ships — perfection is the enemy of deployment.</td>
+  </tr>
+  <tr>
+    <td>☕</td>
+    <td>Fueled by coffee, curiosity, and the occasional GPU cluster.</td>
+  </tr>
+  <tr>
+    <td>🚀</td>
+    <td>From training models to deploying them — I own the full lifecycle.</td>
+  </tr>
+</table>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/harshit-sharma">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/HARSHIT071004">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://harshit-ai-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=black" />
   </a>
   <a href="mailto:harsh078976@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</div>
+  <a href="https://harshit-ai-portfolio.vercel.app/resume">
+    <img src="https://img.shields.io/badge/Resume-FF6F00?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+</p>
 
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="80%" />
 </div>
 
 ---
 
 <div align="center">
-  <i>"Turning data into insights and code into solutions."</i>
+  <sub>Built with 💙 by <strong>Harshit Sharma</strong> — AI Developer</sub>
+  <br/>
+  <sub>© 2026 — Crafted for excellence, deployed for impact.</sub>
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=100&section=footer&width=100%" />
+</p>

@@ -34,7 +34,7 @@
 name: Harshit Sharma
 role: AI Developer | LLM Engineer | Computer Vision Engineer | AI Agent Developer
 location: Greater Noida, India
-education: B.Tech in AI/ML (Final Year)
+education: B.Tech in IT (Final Year)
 focus_areas:
   - Large Language Models (LLMs) & RAG Systems
   - Multi-Agent AI Applications

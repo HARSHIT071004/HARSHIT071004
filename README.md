@@ -15,7 +15,7 @@
   <a href="mailto:harsh078976@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://harshit-ai-portfolio.vercel.app/resume">
+  <a href="https://github.com/HARSHIT071004/HARSHIT071004/raw/main/Harshit_Sharma_Resume.pdf">
     <img src="https://img.shields.io/badge/Resume-FF6F00?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
   </a>
 </p>
@@ -185,97 +185,11 @@ philosophy: "Building AI that ships."
 
 ---
 
-## 🚀 Featured Projects
+## 💻 LeetCode Stats
 
-### 🔍 AI Surveillance System
-<table>
-  <tr>
-    <td width="60%">
-      <strong>Tech Stack:</strong> YOLOv8, YOLO-World, Grounding DINO, React, NestJS, MongoDB<br/><br/>
-      ✅ Open-vocabulary anomaly detection<br/>
-      ✅ Real-time surveillance with video analytics<br/>
-      ✅ Natural language threat definitions<br/>
-      ✅ Automated alerting & notification system<br/>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
-      <br/><br/>
-      <a href="https://github.com/HARSHIT071004"><img src="https://img.shields.io/badge/View_Project-38BDF8?style=for-the-badge&logo=github&logoColor=black" /></a>
-    </td>
-  </tr>
-</table>
-
-### 🧠 Advanced RAG Pipeline
-<table>
-  <tr>
-    <td width="60%">
-      <strong>Tech Stack:</strong> LangChain, FAISS, Transformers, Hugging Face<br/><br/>
-      ✅ Hybrid retrieval (semantic + keyword)<br/>
-      ✅ Cross-encoder reranking for precision<br/>
-      ✅ Semantic chunking strategies<br/>
-      ✅ Low hallucination response generation<br/>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
-      <br/><br/>
-      <a href="https://github.com/HARSHIT071004"><img src="https://img.shields.io/badge/View_Project-38BDF8?style=for-the-badge&logo=github&logoColor=black" /></a>
-    </td>
-  </tr>
-</table>
-
-### 🤖 Multi-Agent AI Desktop App
-<table>
-  <tr>
-    <td width="60%">
-      <strong>Tech Stack:</strong> Electron, TypeScript, Claude API, LangChain<br/><br/>
-      ✅ Multiple specialized AI agents<br/>
-      ✅ GitHub, Slack & Notion integrations<br/>
-      ✅ Desktop-native experience<br/>
-      ✅ Agent orchestration & task delegation<br/>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
-      <br/><br/>
-      <a href="https://github.com/HARSHIT071004"><img src="https://img.shields.io/badge/View_Project-38BDF8?style=for-the-badge&logo=github&logoColor=black" /></a>
-    </td>
-  </tr>
-</table>
-
-### 📊 Crime Data Classification System
-<table>
-  <tr>
-    <td width="60%">
-      <strong>Tech Stack:</strong> XGBoost, scikit-learn, SMOTE, Pandas<br/><br/>
-      ✅ Ensemble learning with multiple classifiers<br/>
-      ✅ Class imbalance handling via SMOTE<br/>
-      ✅ Feature engineering & selection<br/>
-      ✅ 95%+ accuracy on benchmark data<br/>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
-      <br/><br/>
-      <a href="https://github.com/HARSHIT071004"><img src="https://img.shields.io/badge/View_Project-38BDF8?style=for-the-badge&logo=github&logoColor=black" /></a>
-    </td>
-  </tr>
-</table>
-
-### 📈 Portfolio Optimization using Deep Learning
-<table>
-  <tr>
-    <td width="60%">
-      <strong>Tech Stack:</strong> TensorFlow, Keras, NumPy, Pandas<br/><br/>
-      ✅ Financial forecasting with deep learning<br/>
-      ✅ Optimal asset allocation strategies<br/>
-      ✅ Risk-adjusted return optimization<br/>
-      ✅ LSTM-based time series prediction<br/>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
-      <br/><br/>
-      <a href="https://github.com/HARSHIT071004"><img src="https://img.shields.io/badge/View_Project-38BDF8?style=for-the-badge&logo=github&logoColor=black" /></a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/ziKwQnEZBk?theme=dark&font=Fira%20Code&ext=contest&ext=heatmap" width="800" />
+</div>
 
 ---
 
@@ -447,7 +361,7 @@ philosophy: "Building AI that ships."
   <a href="mailto:harsh078976@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://harshit-ai-portfolio.vercel.app/resume">
+  <a href="https://github.com/HARSHIT071004/HARSHIT071004/raw/main/Harshit_Sharma_Resume.pdf">
     <img src="https://img.shields.io/badge/Resume-FF6F00?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </p>

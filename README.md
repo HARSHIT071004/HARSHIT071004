@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://harshit-ai-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
+    <!-- <img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" /> -->
   </a>
   <a href="https://linkedin.com/in/harshit-sharma">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/HARSHIT071004/HARSHIT071004/raw/main/Harshit_Sharma_Resume.pdf">
-    <img src="https://img.shields.io/badge/Resume-FF6F00?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
+    <!-- <img src="https://img.shields.io/badge/Resume-FF6F00?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" /> -->
   </a>
 </p>
 
@@ -138,50 +138,6 @@ philosophy: "Building AI that ships."
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
-
----
-
-## 💼 Experience
-
-<table align="center">
-  <tr>
-    <td align="center" width="300">
-      <img src="https://img.shields.io/badge/Codeacious_Technologies-38BDF8?style=for-the-badge&logo=codeium&logoColor=black" />
-      <br/>
-      <strong>AI Developer Intern</strong>
-      <br/>
-      <sub>Dec 2025 – May 2026</sub>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>🔹</td>
-          <td>Built production-grade <strong>AI Surveillance Platform</strong> with open-vocabulary anomaly detection</td>
-        </tr>
-        <tr>
-          <td>🔹</td>
-          <td>Developed <strong>Hybrid RAG Systems</strong> with hybrid retrieval, cross-encoder reranking & semantic chunking</td>
-        </tr>
-        <tr>
-          <td>🔹</td>
-          <td>Built <strong>Multi-Agent Desktop AI Application</strong> using Electron, TypeScript & Claude API</td>
-        </tr>
-        <tr>
-          <td>🔹</td>
-          <td>Deployed microservices with <strong>Docker + Kubernetes</strong> for scalable AI infrastructure</td>
-        </tr>
-        <tr>
-          <td>🔹</td>
-          <td>Automated AI workflows using <strong>n8n</strong> for end-to-end pipeline orchestration</td>
-        </tr>
-        <tr>
-          <td>🔹</td>
-          <td>Built <strong>React + NestJS</strong> monitoring dashboard for real-time system insights</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -355,9 +311,9 @@ philosophy: "Building AI that ships."
   <a href="https://github.com/HARSHIT071004">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://harshit-ai-portfolio.vercel.app">
+  <!-- <a href="https://harshit-ai-portfolio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=black" />
-  </a>
+  </a> -->
   <a href="mailto:harsh078976@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>

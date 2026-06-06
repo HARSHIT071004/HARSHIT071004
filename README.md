@@ -317,9 +317,9 @@ philosophy: "Building AI that ships."
   <a href="mailto:harsh078976@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/HARSHIT071004/HARSHIT071004/raw/main/Harshit_Sharma_Resume.pdf">
+  <!-- <a href="https://github.com/HARSHIT071004/HARSHIT071004/raw/main/Harshit_Sharma_Resume.pdf">
     <img src="https://img.shields.io/badge/Resume-FF6F00?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
-  </a>
+  </a> -->
 </p>
 
 <br/>

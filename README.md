@@ -123,8 +123,8 @@ Production backends, containerized deployment, CI/CD pipelines, and workflow aut
 
 ## By the numbers
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=HARSHIT071004&show_icons=true&theme=github_dark&bg_color=0F172A&hide_border=true&title_color=818CF8&icon_color=818CF8&text_color=E2E8F0&count_private=true&include_all_commits=true&v=2)](https://github.com/HARSHIT071004)
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HARSHIT071004&layout=compact&theme=github_dark&bg_color=0F172A&hide_border=true&title_color=818CF8&text_color=E2E8F0&langs_count=8&v=2)](https://github.com/HARSHIT071004)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=HARSHIT071004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/HARSHIT071004)
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HARSHIT071004&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/HARSHIT071004)
 
 ---
 
@@ -149,7 +149,7 @@ Production backends, containerized deployment, CI/CD pipelines, and workflow aut
 
 ## Activity
 
-[![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=HARSHIT071004&theme=github-dark&bg_color=0F172A&hide_border=true&color=818CF8&line=818CF8&point=818CF8&area=true&area_color=818CF8&v=2)](https://github.com/HARSHIT071004)
+[![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=HARSHIT071004&theme=github-dark&hide_border=true&area=true)](https://github.com/HARSHIT071004)
 
 ---
 

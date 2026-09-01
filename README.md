@@ -148,7 +148,7 @@ Production backends, containerized deployment, CI/CD pipelines, and workflow aut
 
 ## Contribution snake
 
-<img src="https://raw.githubusercontent.com/HARSHIT071004/HARSHIT071004/output/github-contribution-grid-snake-dark.svg" alt="Snake" />
+<img src="https://raw.githubusercontent.com/HARSHIT071004/HARSHIT071004/gh-pages/github-contribution-grid-snake-dark.svg" alt="Snake" />
 
 ---
 

@@ -39,40 +39,40 @@ Final-year AI/ML engineer with production experience in computer vision, NLP/RAG
 <tr>
 <td width="50%" valign="top">
 
-**Computer Vision**
+**AI / LLM Engineering**
 
-Real-time detection and anomaly systems built on YOLOv8, YOLO-World, and Grounding DINO. From raw video frames to production alerts in sub-second latency.
+RAG pipelines, hybrid retrieval, semantic search, cross-encoder reranking, prompt engineering, and multi-agent systems. From research papers to production endpoints.
 
-`YOLOv8` `YOLO-World` `Grounding DINO` `OpenCV`
+`LangChain` `FAISS` `HuggingFace` `Claude API` `Embeddings` `Semantic Search`
 
 </td>
 <td width="50%" valign="top">
 
-**NLP & RAG**
+**Computer Vision**
 
-Hybrid retrieval pipelines with cross-encoder reranking that cut hallucinations and return answers grounded in source documents.
+Real-time detection and anomaly systems built on YOLOv8, YOLO-World, and Grounding DINO. Open-vocabulary detection with zero model retraining.
 
-`FAISS` `Transformers` `LangChain` `Embeddings`
+`YOLOv8` `YOLO-World` `Grounding DINO` `OpenCV` `Anomaly Detection`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**AI Agents**
+**ML / Deep Learning**
 
-Multi-agent orchestration, function calling, and n8n automation — agents that take action, not just generate text.
+Supervised and unsupervised learning, ensemble methods, deep learning, model optimization, hyperparameter tuning, and feature engineering.
 
-`LangGraph` `n8n` `GPT-4o` `Claude API`
+`PyTorch` `TensorFlow` `Keras` `Scikit-learn` `XGBoost` `SMOTE`
 
 </td>
 <td width="50%" valign="top">
 
-**ML Engineering**
+**Backend & DevOps**
 
-Deep learning, model optimization, and MLOps. From feature engineering to containerized inference endpoints.
+Production backends, containerized deployment, CI/CD pipelines, and workflow automation. From API design to Kubernetes orchestration.
 
-`PyTorch` `TensorFlow` `Docker` `Kubernetes`
+`NestJS` `Flask` `Docker` `Kubernetes` `n8n` `MongoDB` `MySQL`
 
 </td>
 </tr>
@@ -86,9 +86,11 @@ Deep learning, model optimization, and MLOps. From feature engineering to contai
 
 [![Languages](https://skillicons.dev/icons?i=python,js,ts,cpp,sql,bash&theme=dark&v=2)](https://skillicons.dev)
 
-**AI / ML**
+**AI / LLM**
 
 [![AI](https://skillicons.dev/icons?i=pytorch,tensorflow,huggingface,langchain,openai&theme=dark&v=2)](https://skillicons.dev)
+
+`Keras` `Scikit-learn` `XGBoost` `FAISS` `Cross-Encoder Rerankers` `Prompt Engineering` `Semantic Search` `Embeddings`
 
 **Vision**
 
@@ -101,17 +103,21 @@ Deep learning, model optimization, and MLOps. From feature engineering to contai
 
 [![Backend](https://skillicons.dev/icons?i=flask,fastapi,nestjs,mongodb,docker,kubernetes,git,linux&theme=dark&v=2)](https://skillicons.dev)
 
+**Data & Analytics**
+
+`Pandas` `NumPy` `Power BI` `Matplotlib` `Seaborn` `Excel`
+
 ---
 
 ## Experience
 
 **AI Developer Intern** — Codeacious Technologies (Dec 2025 – May 2026)
 
-- Built real-time Event Anomaly Detection using YOLOv8, YOLO-World, Grounding DINO — **1000+ events/min at 95% mAP**
-- Developed production RAG pipelines with retriever + reranker architecture — **40% improvement** over baseline
-- Created backend using NestJS, React, MongoDB
-- Deployed using Docker and Kubernetes
-- Automated workflows using n8n
+- Designed and deployed a real-time AI surveillance platform with open-vocabulary anomaly detection over live video streams — threats defined in natural language with zero model retraining
+- Engineered a production-grade RAG pipeline (FAISS dense + sparse keyword retrieval, cross-encoder reranking, semantic chunking) for accurate, source-grounded LLM responses
+- Built a multi-LLM agent desktop app (NemoClaw fork, TypeScript/Electron) with sandboxed agents and Claude API integration, connected to Slack, Notion, and GitHub
+- Containerized full AI stack (Docker/Kubernetes), automated alert escalation via n8n, benchmarked YOLOv8/YOLO-World/Grounding DINO
+- Delivered NestJS/MongoDB + React monitoring dashboard
 
 ---
 
@@ -126,8 +132,8 @@ Deep learning, model optimization, and MLOps. From feature engineering to contai
 
 - **Microsoft Hackathon Finalist** — Selected among thousands for building an AI-powered productivity solution
 - **AI Developer Intern — Codeacious Technologies** — Shipped real-time anomaly detection and production RAG pipelines
-- **8.5 CGPA** — Final-year CS undergrad with strong foundations in ML, deep learning, and systems
-- **6+ Live Systems** — Production-grade AI deployed and running in the real world
+- **8.48 CGPA** — B.Tech IT, Gautam Buddha University (Expected 2026)
+- **Certifications** — SQL (HackerRank), Python & Pandas (Kaggle), Power BI, Advanced Excel, ML A-Z, Statistics for DS
 
 ---
 
@@ -138,12 +144,6 @@ Deep learning, model optimization, and MLOps. From feature engineering to contai
 > Notebook demos are not products. I build AI that survives contact with real users and messy data.
 >
 > *Local-first when possible. Dockerized when not. Always version-controlled.*
-
----
-
-## Contribution snake
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/HARSHIT071004/HARSHIT071004/output/github-contribution-grid-snake.svg)
 
 ---
 

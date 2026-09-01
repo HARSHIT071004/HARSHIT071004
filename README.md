@@ -18,9 +18,13 @@
 
 ## `$ cat profile.md`
 
-Final-year AI/ML engineer who builds **production AI systems**, not notebook demos. Currently shipping RAG pipelines with hybrid retrieval, real-time computer vision platforms, and developer tooling in Rust.
+```
+> building production AI — not notebook demos
+> RAG pipelines · real-time vision · rust cli tooling · multi-agent systems
+> if it doesn't ship, it doesn't count
+```
 
-I've processed **1000+ events/min** through vision pipelines at **95% mAP**, built **citation-grounded** document QA systems, and containerized full AI stacks with Docker/K8s. Microsoft Hackathon Finalist. Intern at Codeacious Technologies where I shipped real-time anomaly detection and multi-agent systems.
+Final-year AI/ML engineer. I build **systems that ship** — RAG pipelines with hybrid retrieval, real-time computer vision platforms, and developer tooling in Rust. Currently deploying, shipping, and designing three projects simultaneously.
 
 <br/>
 
@@ -175,24 +179,38 @@ Autonomous code review orchestration system — multi-agent architecture that an
 
 <table>
 <tr>
-<td>⏰</td>
-<td><strong>When I Code</strong></td>
+<td width="60"align="center">⏰</td>
+<td width="180"><strong>When I Code</strong></td>
 <td>Early bird 🐤 — most commits before noon</td>
 </tr>
 <tr>
-<td>📅</td>
-<td><strong>Most Productive</strong></td>
-<td>Wednesday</td>
+<td align="center">📅</td>
+<td><strong>Most Productive Day</strong></td>
+<td>Wednesday — peak commit velocity mid-week</td>
+</tr>
+<tr>
+<td align="center">🔥</td>
+<td><strong>Primary Language</strong></td>
+<td>Python — 70%+ of all repositories</td>
+</tr>
+<tr>
+<td align="center">🧠</td>
+<td><strong>Focus Areas</strong></td>
+<td>RAG Systems · Computer Vision · Rust CLI · AI Agents</td>
+</tr>
+<tr>
+<td align="center">🚀</td>
+<td><strong>Current Status</strong></td>
+<td>3 active projects — deploying, shipping, designing</td>
+</tr>
+<tr>
+<td align="center">📦</td>
+<td><strong>Repositories</strong></td>
+<td>28+ public repos across AI, ML, NLP, and full-stack</td>
 </tr>
 </table>
 
 <br/>
-
----
-
-<br/>
-
-## GitHub
 
 <div align="center">
 

@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,25:312E81,50:3730A3,75:4338CA,100:6366F1&height=300&section=header&text=HARSHIT%20SHARMA&fontSize=80&fontColor=F8FAFC&fontAlignY=40&desc=AI%2FML%20Engineer%20%7C%20Computer%20Vision%20%7C%20RAG%20%7C%20AI%20Agents&descSize=18&descColor=C7D2FE&animation=fadeIn&v=2" alt="Banner" />
+# Harshit Sharma
 
-<br/>
+**AI/ML Engineer — Computer Vision | RAG | AI Agents**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=800&color=818CF8&center=true&vCenter=true&width=800&lines=Building+AI+that+survives+contact+with+real+users;From+notebooks+to+production+in+weeks;1000%2B+events%2Fmin+at+95%25+mAP&v=2" alt="Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=600&lines=Building+AI+that+ships;1000%2B+events/min+at+95%25+mAP&v=2" alt="Typing" />
 
 <br/>
 

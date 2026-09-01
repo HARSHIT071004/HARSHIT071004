@@ -123,8 +123,7 @@ Production backends, containerized deployment, CI/CD pipelines, and workflow aut
 
 ## By the numbers
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=HARSHIT071004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/HARSHIT071004)
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HARSHIT071004&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/HARSHIT071004)
+<img src="https://streak-stats.demolab.com?user=HARSHIT071004&theme=dark&hide_border=true" alt="Streak stats" />
 
 ---
 
@@ -144,12 +143,6 @@ Production backends, containerized deployment, CI/CD pipelines, and workflow aut
 > Notebook demos are not products. I build AI that survives contact with real users and messy data.
 >
 > *Local-first when possible. Dockerized when not. Always version-controlled.*
-
----
-
-## Activity
-
-[![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=HARSHIT071004&theme=github-dark&hide_border=true&area=true)](https://github.com/HARSHIT071004)
 
 ---
 

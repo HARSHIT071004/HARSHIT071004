@@ -146,6 +146,12 @@ Production backends, containerized deployment, CI/CD pipelines, and workflow aut
 
 ---
 
+## Contribution snake
+
+<img src="https://raw.githubusercontent.com/HARSHIT071004/HARSHIT071004/output/github-contribution-grid-snake-dark.svg" alt="Snake" />
+
+---
+
 ## Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=818CF8&v=2)](https://github.com/HARSHIT071004)

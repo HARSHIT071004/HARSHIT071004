@@ -24,7 +24,9 @@
 > if it doesn't ship, it doesn't count
 ```
 
-Final-year AI/ML engineer. I build **systems that ship** — RAG pipelines with hybrid retrieval, real-time computer vision platforms, and developer tooling in Rust. Currently deploying, shipping, and designing three projects simultaneously.
+I teach LLMs to **stop hallucinating** and cameras to **catch what humans miss** — then I package the whole thing in Docker before anyone asks *"but does it work in production?"* Yes. It does.
+
+Final-year engineer who treats `cargo build` and `pip install` with equal reverence. Currently juggling three projects across three languages because apparently one existential crisis at a time wasn't enough. My RAG pipelines cite their sources better than most research papers, my YOLO models detect threats described in plain English, and my Rust CLI ships binaries that don't need a Python interpreter to breathe.
 
 <br/>
 

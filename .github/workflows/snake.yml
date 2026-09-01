@@ -5,26 +5,27 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v4
         with:
-          ref: output
-          path: output
+          ref: main
 
       - uses: platane/snk@v3
         with:
           github_user_name: HARSHIT071004
           outputs: |
-            output/github-contribution-grid-snake-dark.svg?color_snake=orange&color_dots=#e2e8f0,#cbd5e1,#94a3b8,#6366f1,#4f46e5
+            dist/github-contribution-grid-snake-dark.svg?color_snake=orange&color_dots=#e2e8f0,#cbd5e1,#94a3b8,#6366f1,#4f46e5
 
-      - name: Push to output branch
-        run: |
-          cd output
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add -A
-          git diff --staged --quiet || git commit -m "update snake"
-          git push
+      - name: Deploy to output branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          destination_dir: .
+          keep_files: true
